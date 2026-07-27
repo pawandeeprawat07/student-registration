@@ -51,17 +51,6 @@ cd student-registration-system
 
 3. Open `index.html` in your browser.
 
-## 📸 Screenshots
-
-Add screenshots of your project here.
-
-Example:
-
-```
-screenshots/homepage.png
-screenshots/register-form.png
-```
-
 ## 🎯 Future Enhancements
 
 - Login Authentication
@@ -102,7 +91,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Your Name**
+pawandeep singh rawat
 
 GitHub: https://github.com/pawandeeprawat07
 
